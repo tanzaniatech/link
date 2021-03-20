@@ -2386,8 +2386,8 @@ fieldset:disabled a.btn {
 .btn-info.disabled,
 .btn-info:disabled {
     color: #fff;
-    background-color: #74b9ff;
-    border-color: #74b9ff;
+    background-color: #00a43d;
+    border-color: #00a43d;
 }
 .btn-info:not(:disabled):not(.disabled).active,
 .btn-info:not(:disabled):not(.disabled):active,
