@@ -2371,8 +2371,8 @@ fieldset:disabled a.btn {
 }
 .btn-info {
     color: #fff;
-    background-color: #74b9ff;
-    border-color: #74b9ff;
+    background-color: #00a43d;
+    border-color: #00a43d;
 }
 .btn-info:hover {
     color: #fff;
@@ -4794,7 +4794,7 @@ a.badge-dark:focus {
     color: #fff;
     text-align: center;
     white-space: nowrap;
-    background-color: #007bff;
+    background-color: #00a43d;
     transition: width 0.6s ease;
 }
 @media (prefers-reduced-motion: reduce) {
@@ -5916,7 +5916,7 @@ button.bg-success:hover {
     background-color: #1e7e34 !important;
 }
 .bg-info {
-    background-color: #74b9ff !important;
+    background-color: #00a43d !important;
 }
 a.bg-info:focus,
 a.bg-info:hover,
